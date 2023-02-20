@@ -1,0 +1,18 @@
+@import "banner.css";
+@import "cards.css";
+@import "footer.css";
+
+
+body {
+  margin: 0;
+  background-color: lightgrey;
+}
+
+a {
+  text-decoration: none;
+}
+
+.form {
+  text-align: center;
+  padding: 24px 0;
+}
